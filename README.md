@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alessandro Gaudenzi</h1>
 <h3 align="center">An IT engineering student from Italy</h3>
 
-<h4 align="center">**a.gaudenzi001{at}studenti.unibs.it**</h4>
+<h5align="center">a.gaudenzi001{at}studenti.unibs.it</h5
 
 
 <h3 align="center">Languages and Tools:</h3>
