@@ -1,6 +1,7 @@
 <h1>Hi 👋, I'm Alessandro Gaudenzi</h1>
 <h3>An IT engineering student from Italy</h3>
-<h5>alegau97{at}gmail.com</h5
+<h5>alegau97{at}gmail.com</h5>
+<h5>alessandro.gaudenzi{at}unibs.it</h5>
   
 <div style="text-align:center">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
