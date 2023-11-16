@@ -1,5 +1,6 @@
 <h1>Hi 👋, I'm Alessandro Gaudenzi</h1>
-<h3>An IT engineering student from Italy</h3>
+<h3>Researcher at UNIBS</h3>
+<h4>Currently working on Automated Planning and Reinforcement Learning</h4>
 <h5>alegau97{at}gmail.com</h5>
 <h5>alessandro.gaudenzi{at}unibs.it</h5>
   
