@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Alessandro Gaudenzi</h1>
 <h3>Researcher at UNIBS</h3>
-<h4>Currently working on Reinforcement Learning applied to uncertain assets</h4>
+<h4>Currently working on Reinforcement Learning applied to Cyber Attacks assets</h4>
 <h5>alegau97{at}gmail.com</h5>
 <h5>alessandro.gaudenzi{at}unibs.it</h5>
   
