@@ -1,6 +1,10 @@
 Researcher at UNIBS
+
 Currently working on Reinforcement Learning applied to Cyber Attacks assets
+
+
 alegau97{at}gmail.com
+
 alessandro.gaudenzi{at}unibs.it
   
 <div style="text-align:center">
