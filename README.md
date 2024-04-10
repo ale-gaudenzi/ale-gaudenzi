@@ -5,7 +5,6 @@
 
 - 📫 How to reach me **alegau97{at}gmail.com, alessandro.gaudenzi{at}unibs.it**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
