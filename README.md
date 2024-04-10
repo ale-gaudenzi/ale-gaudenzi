@@ -1,8 +1,7 @@
-<h1>Hi 👋, I'm Alessandro Gaudenzi</h1>
-<h3>Researcher at UNIBS</h3>
-<h4>Currently working on Reinforcement Learning applied to Cyber Attacks assets</h4>
-<h5>alegau97{at}gmail.com</h5>
-<h5>alessandro.gaudenzi{at}unibs.it</h5>
+Researcher at UNIBS
+Currently working on Reinforcement Learning applied to Cyber Attacks assets
+alegau97{at}gmail.com
+alessandro.gaudenzi{at}unibs.it
   
 <div style="text-align:center">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
